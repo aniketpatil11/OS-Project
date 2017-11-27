@@ -1,4 +1,4 @@
-# OS-Project
+# Basic Shell for Linux
 Shell for operating system !
 
 ### To run locally 
